@@ -19,3 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // #define USE_I2C
 #define EE_HANDS
+
+//#define TAPPING_TOGGLE 2
+//#define RGBLIGHT_LAYERS
+//#define RGBLIGHT_LAYERS_OVERRIDE_RGB_OFF
